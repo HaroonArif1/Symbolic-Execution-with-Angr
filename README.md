@@ -13,6 +13,11 @@ Symbolic execution is a technique for analyzing programs to determine inputs tha
   - Analyzed the graph for the number of nodes, edges, and instruction types.
 - **Task 2**:
   - Performed symbolic execution to identify and generate correct inputs for 'put' functions.
+ 
+## Binary File
+The repository includes a sample binary file (`test`) in the `bin` directory. This file is used to demonstrate symbolic execution and control-flow graph analysis using Angr.
+
+**Note:** The binary file is an ELF file compiled for Linux systems and is required to run the analysis scripts.
 
 ## Prerequisites
 - Python 3.x
