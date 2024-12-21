@@ -63,6 +63,7 @@ pip3 install angr
 - `task2lab2.py`: Script for symbolic execution.
 - `cfg.png`: Visual representation of the CFG.
 - `cfg.raw`: Raw CFG data.
+- `bin/test`: Sample binary file for analysis.
 
 ## Setup and Tutorials
 ### Installing Angr
